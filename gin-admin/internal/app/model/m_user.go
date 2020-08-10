@@ -3,7 +3,7 @@ package model
 import (
 	"context"
 
-	"github.com/LyricTian/gin-admin/v6/internal/app/schema"
+	"github.com/1920853199/extraitems/gin-admin/internal/app/schema"
 )
 
 // IUser 用户对象存储接口

@@ -5,10 +5,10 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/LyricTian/gin-admin/v6/internal/app/schema"
-	"github.com/LyricTian/gin-admin/v6/pkg/errors"
-	"github.com/LyricTian/gin-admin/v6/pkg/logger"
-	"github.com/LyricTian/gin-admin/v6/pkg/util"
+	"github.com/1920853199/extraitems/gin-admin/internal/app/schema"
+	"github.com/1920853199/extraitems/gin-admin/pkg/errors"
+	"github.com/1920853199/extraitems/gin-admin/pkg/logger"
+	"github.com/1920853199/extraitems/gin-admin/pkg/util"
 	"github.com/gin-gonic/gin"
 	"github.com/gin-gonic/gin/binding"
 )

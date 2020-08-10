@@ -1,9 +1,9 @@
 package middleware
 
 import (
-	"github.com/LyricTian/gin-admin/v6/internal/app/config"
-	"github.com/LyricTian/gin-admin/v6/internal/app/ginplus"
-	"github.com/LyricTian/gin-admin/v6/pkg/errors"
+	"github.com/1920853199/extraitems/gin-admin/internal/app/config"
+	"github.com/1920853199/extraitems/gin-admin/internal/app/ginplus"
+	"github.com/1920853199/extraitems/gin-admin/pkg/errors"
 	"github.com/casbin/casbin/v2"
 	"github.com/gin-gonic/gin"
 )

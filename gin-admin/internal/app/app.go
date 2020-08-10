@@ -13,15 +13,15 @@ import (
 
 	"github.com/LyricTian/captcha"
 	"github.com/LyricTian/captcha/store"
-	"github.com/LyricTian/gin-admin/v6/internal/app/config"
-	"github.com/LyricTian/gin-admin/v6/internal/app/injector"
-	"github.com/LyricTian/gin-admin/v6/internal/app/iutil"
-	"github.com/LyricTian/gin-admin/v6/pkg/logger"
+	"github.com/1920853199/extraitems/gin-admin/internal/app/config"
+	"github.com/1920853199/extraitems/gin-admin/internal/app/injector"
+	"github.com/1920853199/extraitems/gin-admin/internal/app/iutil"
+	"github.com/1920853199/extraitems/gin-admin/pkg/logger"
 	"github.com/go-redis/redis"
 	"github.com/google/gops/agent"
 
 	// 引入swagger
-	_ "github.com/LyricTian/gin-admin/v6/internal/app/swagger"
+	_ "github.com/1920853199/extraitems/gin-admin/internal/app/swagger"
 )
 
 type options struct {

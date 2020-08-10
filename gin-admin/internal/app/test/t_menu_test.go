@@ -4,8 +4,8 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/LyricTian/gin-admin/v6/internal/app/schema"
-	"github.com/LyricTian/gin-admin/v6/pkg/unique"
+	"github.com/1920853199/extraitems/gin-admin/internal/app/schema"
+	"github.com/1920853199/extraitems/gin-admin/pkg/unique"
 	"github.com/stretchr/testify/assert"
 )
 

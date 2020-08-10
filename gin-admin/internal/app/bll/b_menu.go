@@ -3,7 +3,7 @@ package bll
 import (
 	"context"
 
-	"github.com/LyricTian/gin-admin/v6/internal/app/schema"
+	"github.com/1920853199/extraitems/gin-admin/internal/app/schema"
 )
 
 // IMenu 菜单管理业务逻辑接口

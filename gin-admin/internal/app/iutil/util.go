@@ -1,10 +1,10 @@
 package iutil
 
 import (
-	"github.com/LyricTian/gin-admin/v6/internal/app/config"
-	"github.com/LyricTian/gin-admin/v6/pkg/logger"
-	"github.com/LyricTian/gin-admin/v6/pkg/trace"
-	"github.com/LyricTian/gin-admin/v6/pkg/unique"
+	"github.com/1920853199/extraitems/gin-admin/internal/app/config"
+	"github.com/1920853199/extraitems/gin-admin/pkg/logger"
+	"github.com/1920853199/extraitems/gin-admin/pkg/trace"
+	"github.com/1920853199/extraitems/gin-admin/pkg/unique"
 )
 
 var idFunc = func() string {

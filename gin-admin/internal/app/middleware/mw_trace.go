@@ -1,9 +1,9 @@
 package middleware
 
 import (
-	"github.com/LyricTian/gin-admin/v6/internal/app/icontext"
-	"github.com/LyricTian/gin-admin/v6/pkg/logger"
-	"github.com/LyricTian/gin-admin/v6/pkg/trace"
+	"github.com/1920853199/extraitems/gin-admin/internal/app/icontext"
+	"github.com/1920853199/extraitems/gin-admin/pkg/logger"
+	"github.com/1920853199/extraitems/gin-admin/pkg/trace"
 	"github.com/gin-gonic/gin"
 )
 

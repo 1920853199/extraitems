@@ -4,8 +4,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/LyricTian/gin-admin/v6/internal/app/model/impl/mongo/entity"
-	"github.com/LyricTian/gin-admin/v6/pkg/logger"
+	"github.com/1920853199/extraitems/gin-admin/internal/app/model/impl/mongo/entity"
+	"github.com/1920853199/extraitems/gin-admin/pkg/logger"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 )

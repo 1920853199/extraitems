@@ -4,8 +4,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/LyricTian/gin-admin/v6/pkg/logger"
-	"github.com/LyricTian/gin-admin/v6/pkg/util"
+	"github.com/1920853199/extraitems/gin-admin/pkg/logger"
+	"github.com/1920853199/extraitems/gin-admin/pkg/util"
 	"github.com/sirupsen/logrus"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo"

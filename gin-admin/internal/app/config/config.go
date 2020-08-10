@@ -6,7 +6,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/LyricTian/gin-admin/v6/pkg/util"
+	"github.com/1920853199/extraitems/gin-admin/pkg/util"
 	"github.com/koding/multiconfig"
 )
 

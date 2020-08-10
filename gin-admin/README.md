@@ -50,7 +50,7 @@ go get -u github.com/swaggo/swag/cmd/swag
 > 也可以使用国内源：https://gitee.com/lyric/gin-admin
 
 ```bash
-$ go get -u -v github.com/LyricTian/gin-admin/v6/cmd/gin-admin
+$ go get -u -v github.com/1920853199/extraitems/gin-admin/cmd/gin-admin
 $ cd $GOPATH/src/github.com/LyricTian/gin-admin
 # 使用AIR工具运行
 $ air

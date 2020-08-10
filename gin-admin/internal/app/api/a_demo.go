@@ -1,9 +1,9 @@
 package api
 
 import (
-	"github.com/LyricTian/gin-admin/v6/internal/app/bll"
-	"github.com/LyricTian/gin-admin/v6/internal/app/ginplus"
-	"github.com/LyricTian/gin-admin/v6/internal/app/schema"
+	"github.com/1920853199/extraitems/gin-admin/internal/app/bll"
+	"github.com/1920853199/extraitems/gin-admin/internal/app/ginplus"
+	"github.com/1920853199/extraitems/gin-admin/internal/app/schema"
 	"github.com/gin-gonic/gin"
 	"github.com/google/wire"
 )

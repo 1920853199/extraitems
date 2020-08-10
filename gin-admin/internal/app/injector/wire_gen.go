@@ -6,11 +6,11 @@
 package injector
 
 import (
-	"github.com/LyricTian/gin-admin/v6/internal/app/api"
-	"github.com/LyricTian/gin-admin/v6/internal/app/bll/impl/bll"
-	"github.com/LyricTian/gin-admin/v6/internal/app/model/impl/gorm/model"
-	"github.com/LyricTian/gin-admin/v6/internal/app/module/adapter"
-	"github.com/LyricTian/gin-admin/v6/internal/app/router"
+	"github.com/1920853199/extraitems/gin-admin/internal/app/api"
+	"github.com/1920853199/extraitems/gin-admin/internal/app/bll/impl/bll"
+	"github.com/1920853199/extraitems/gin-admin/internal/app/model/impl/gorm/model"
+	"github.com/1920853199/extraitems/gin-admin/internal/app/module/adapter"
+	"github.com/1920853199/extraitems/gin-admin/internal/app/router"
 )
 
 // Injectors from wire.go:

@@ -4,8 +4,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/LyricTian/gin-admin/v6/internal/app/config"
-	"github.com/LyricTian/gin-admin/v6/pkg/util"
+	"github.com/1920853199/extraitems/gin-admin/internal/app/config"
+	"github.com/1920853199/extraitems/gin-admin/pkg/util"
 )
 
 // GetRootUser 获取root用户

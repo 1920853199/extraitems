@@ -5,9 +5,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/LyricTian/gin-admin/v6/internal/app/config"
-	"github.com/LyricTian/gin-admin/v6/internal/app/model/impl/gorm/entity"
-	"github.com/LyricTian/gin-admin/v6/pkg/logger"
+	"github.com/1920853199/extraitems/gin-admin/internal/app/config"
+	"github.com/1920853199/extraitems/gin-admin/internal/app/model/impl/gorm/entity"
+	"github.com/1920853199/extraitems/gin-admin/pkg/logger"
 	"github.com/jinzhu/gorm"
 
 	// gorm存储注入

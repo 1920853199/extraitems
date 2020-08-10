@@ -1,9 +1,9 @@
 package injector
 
 import (
-	"github.com/LyricTian/gin-admin/v6/internal/app/config"
-	"github.com/LyricTian/gin-admin/v6/internal/app/middleware"
-	"github.com/LyricTian/gin-admin/v6/internal/app/router"
+	"github.com/1920853199/extraitems/gin-admin/internal/app/config"
+	"github.com/1920853199/extraitems/gin-admin/internal/app/middleware"
+	"github.com/1920853199/extraitems/gin-admin/internal/app/router"
 	"github.com/LyricTian/gzip"
 	"github.com/gin-gonic/gin"
 	ginSwagger "github.com/swaggo/gin-swagger"

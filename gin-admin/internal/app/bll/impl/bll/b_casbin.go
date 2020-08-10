@@ -3,8 +3,8 @@ package bll
 import (
 	"context"
 
-	"github.com/LyricTian/gin-admin/v6/internal/app/config"
-	"github.com/LyricTian/gin-admin/v6/pkg/logger"
+	"github.com/1920853199/extraitems/gin-admin/internal/app/config"
+	"github.com/1920853199/extraitems/gin-admin/pkg/logger"
 	"github.com/casbin/casbin/v2"
 )
 

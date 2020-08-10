@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/LyricTian/gin-admin/v6/internal/app/config"
+	"github.com/1920853199/extraitems/gin-admin/internal/app/config"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
 )
